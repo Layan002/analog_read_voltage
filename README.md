@@ -7,6 +7,6 @@ https://github.com/user-attachments/assets/b1415bcc-eb7e-4312-9802-71381ab0c3b4
 
 # Calculation Understanding
 
-![photo_2_2024-09-02_00-07-41](https://github.com/user-attachments/assets/fa779075-c1d9-4475-9699-774ee057602d)
+<img src="https://github.com/user-attachments/assets/fa779075-c1d9-4475-9699-774ee057602d" alt="img" width=600>
 
-![photo_1_2024-09-02_00-07-41](https://github.com/user-attachments/assets/9fbf6fbe-195b-4e4f-821a-5339f2fdf734)
+<img src="https://github.com/user-attachments/assets/9fbf6fbe-195b-4e4f-821a-5339f2fdf734" alt="img" width=600>
